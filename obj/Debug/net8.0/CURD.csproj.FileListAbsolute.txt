@@ -1,0 +1,14 @@
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\bin\Debug\net8.0\CURD.exe
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\bin\Debug\net8.0\CURD.deps.json
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\bin\Debug\net8.0\CURD.runtimeconfig.json
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\bin\Debug\net8.0\CURD.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\bin\Debug\net8.0\CURD.pdb
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.AssemblyInfoInputs.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.AssemblyInfo.cs
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.csproj.CoreCompileInputs.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\refint\CURD.dll
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.pdb
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\CURD.genruntimeconfig.cache
+D:\Technology\Backend\3- C# OOP\OOP Projects\CURD Solution\CURD\obj\Debug\net8.0\ref\CURD.dll
